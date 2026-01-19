@@ -1,4 +1,4 @@
-# [OX] Vehicle Extras Manager 🏎️
+# [STANDALONE] Vehicle Extras Manager 🏎️
 
 A modern, high-performance, and easy-to-use script for managing vehicle extras in FiveM. Built with **ox_lib** for the best user experience and optimization.
 
@@ -28,7 +28,5 @@ You can modify:
 * **Default Keybind** (default is F10).
 
 ## 📸 Preview
-*(Tip: Add a screenshot or a GIF here to show people how it looks!)*
 
-## 📩 Support
-If you have any issues or suggestions, feel free to open an Issue on GitHub or contact me via Discord.
+<img width="288" height="367" alt="Zrzut ekranu 2026-01-19 044403" src="https://github.com/user-attachments/assets/02c93a1f-7bdb-4e84-abea-35cacb3dd0e6" />
