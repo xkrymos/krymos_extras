@@ -1,4 +1,4 @@
-# [STANDALONE] Vehicle Extras Manager 🏎️
+# [OX] Vehicle Extras Manager 🏎️
 
 A modern, high-performance, and easy-to-use script for managing vehicle extras in FiveM. Built with **ox_lib** for the best user experience and optimization.
 
